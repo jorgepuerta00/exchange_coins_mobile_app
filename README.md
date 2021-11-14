@@ -1,6 +1,6 @@
 # Demo app
 
-exp://exp.host/@jorgepuerta/xcoinsApptest
+[Expo iOS App](exp://exp.host/@jorgepuerta/xcoinsApptest)
 
 # Demo Video
 
