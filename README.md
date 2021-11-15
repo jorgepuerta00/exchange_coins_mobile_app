@@ -5,7 +5,8 @@
 
 # Video Demo 
 
-[Watch the video](https://github.com/jorgepuerta00/exchange_coins_mobile_app/blob/main/demo/demo_xcoins_exchange.MP4)
+1. Download the demo video to watch how is working the app
+2. [Download the video here](https://github.com/jorgepuerta00/exchange_coins_mobile_app/blob/main/demo/demo_xcoins_exchange.MP4)
 
 # Images Screens
 
