@@ -5,4 +5,10 @@
 
 # Video Demo 
 
-[Video] (https://github.com/jorgepuerta00/exchange_coins_mobile_app/blob/main/demo/demo_xcoins_exchange.MP4)
+![Video](https://github.com/jorgepuerta00/exchange_coins_mobile_app/blob/main/demo/demo_xcoins_exchange.MP4)
+
+# Images Screens
+
+![alt text](https://github.com/jorgepuerta00/exchange_coins_mobile_app/blob/main/demo/IMG_9609.PNG?raw=true)
+![alt text](https://github.com/jorgepuerta00/exchange_coins_mobile_app/blob/main/demo/IMG_9610.PNG?raw=true)
+![alt text](https://github.com/jorgepuerta00/exchange_coins_mobile_app/blob/main/demo/IMG_9611.PNG?raw=true)
